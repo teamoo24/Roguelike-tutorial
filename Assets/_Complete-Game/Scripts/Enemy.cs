@@ -7,9 +7,8 @@ namespace Completed
 	public class Enemy : MovingObject
 	{
 		public int playerDamage; 							//The amount of food points to subtract from the player when attacking.
-		public AudioClip attackSound1;						//First of two audio clips to play when attacking the player.
-		public AudioClip attackSound2;						//Second of two audio clips to play when attacking the player.
-		
+		public AudioClip enemyAttack1;						//First of two audio clips to play when attacking the player.
+		public AudioClip enemyAttack2;						//Second of two audio clips to play when attacking the player.
 		
 		private Animator animator;							//Variable of type Animator to store a reference to the enemy's Animator component.
 		private Transform target;							//Transform to attempt to move toward each turn.
@@ -78,21 +77,15 @@ namespace Completed
 		}
 		
 		
-		//OnCantMove is called if Enemy attempts to move into a space occupied by a Player, it overrides the OnCantMove function of MovingObject 
-		//and takes a generic parameter T which we use to pass in the component we expect to encounter, in this case Player
 		protected override void OnCantMove <T> (T component)
 		{
-			//Declare hitPlayer and set it to equal the encountered component.
 			Player hitPlayer = component as Player;
 			
-			//Call the LoseFood function of hitPlayer passing it playerDamage, the amount of foodpoints to be subtracted.
 			hitPlayer.LoseFood (playerDamage);
 			
-			//Set the attack trigger of animator to trigger Enemy attack animation.
 			animator.SetTrigger ("enemyAttack");
 			
-			//Call the RandomizeSfx function of SoundManager passing in the two audio clips to choose randomly between.
-			SoundManager.instance.RandomizeSfx (attackSound1, attackSound2);
+			SoundManager.instance.RandomizeSfx (enemyAttack1, enemyAttack2);
 		}
 	}
 }
