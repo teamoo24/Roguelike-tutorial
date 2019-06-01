@@ -1,0 +1,150 @@
+Mono path[0] = 'C:/Users/teamo/OneDrive/ドキュメント/ProjecList/RogueLike Tutorial/Build/ForPC_Data/Managed'
+Mono path[1] = 'C:/Users/teamo/OneDrive/ドキュメント/ProjecList/RogueLike Tutorial/Build/ForPC_Data/Mono'
+Mono config path = 'C:/Users/teamo/OneDrive/ドキュメント/ProjecList/RogueLike Tutorial/Build/ForPC_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/teamo/OneDrive/ドキュメント/ProjecList/RogueLike Tutorial/Build/ForPC_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55022
+Multi-casting "[IP] 192.168.1.9 [Port] 55022 [Flags] 2 [Guid] 3718790837 [EditorId] 329072256 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-J11VKMR) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55022]
+PlayerConnection already initialized - listening to [0.0.0.0:55022]
+Player data archive not found at `C:/Users/teamo/OneDrive/ドキュメント/ProjecList/RogueLike Tutorial/Build/ForPC_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics (ID=0x102)
+    Vendor:   Intel
+    VRAM:     944 MB
+    Driver:   9.17.10.4459
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Mono/MonoScriptCache.cpp Line: 376)
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.356233 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.183416 ms
+System memory in use before: 32.1 MB.
+System memory in use after: 32.1 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 848.
+Total: 0.348618 ms (FindLiveObjects: 0.047674 ms CreateObjectMapping: 0.028472 ms MarkObjects: 0.264525 ms  DeleteObjects: 0.005959 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.927661 ms
+System memory in use before: 32.3 MB.
+System memory in use after: 32.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 843.
+Total: 0.406886 ms (FindLiveObjects: 0.053633 ms CreateObjectMapping: 0.028803 ms MarkObjects: 0.315841 ms  DeleteObjects: 0.006952 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.800530 ms
+System memory in use before: 32.2 MB.
+System memory in use after: 32.3 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 855.
+Total: 0.348618 ms (FindLiveObjects: 0.050984 ms CreateObjectMapping: 0.028472 ms MarkObjects: 0.261215 ms  DeleteObjects: 0.006621 ms)
+
+Mono path[0] = 'C:/Users/teamo/OneDrive/ドキュメント/ProjecList/RogueLike Tutorial/Build/ForPC_Data/Managed'
+Mono path[1] = 'C:/Users/teamo/OneDrive/ドキュメント/ProjecList/RogueLike Tutorial/Build/ForPC_Data/Mono'
+Mono config path = 'C:/Users/teamo/OneDrive/ドキュメント/ProjecList/RogueLike Tutorial/Build/ForPC_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/teamo/OneDrive/ドキュメント/ProjecList/RogueLike Tutorial/Build/ForPC_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55073
+Multi-casting "[IP] 192.168.1.9 [Port] 55073 [Flags] 2 [Guid] 3551145324 [EditorId] 329072256 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-J11VKMR) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55073]
+PlayerConnection already initialized - listening to [0.0.0.0:55073]
+Player data archive not found at `C:/Users/teamo/OneDrive/ドキュメント/ProjecList/RogueLike Tutorial/Build/ForPC_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics (ID=0x102)
+    Vendor:   Intel
+    VRAM:     944 MB
+    Driver:   9.17.10.4459
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\teamo\OneDrive\ドキュメント\ProjecList\RogueLike Tutorial\Build\ForPC_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Mono/MonoScriptCache.cpp Line: 376)
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.415329 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.557029 ms
+System memory in use before: 32.4 MB.
+System memory in use after: 32.5 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 833.
+Total: 0.370468 ms (FindLiveObjects: 0.048998 ms CreateObjectMapping: 0.030789 ms MarkObjects: 0.282734 ms  DeleteObjects: 0.006621 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.721570 ms
+System memory in use before: 31.7 MB.
+System memory in use after: 31.7 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 843.
+Total: 0.494951 ms (FindLiveObjects: 0.067869 ms CreateObjectMapping: 0.044363 ms MarkObjects: 0.371461 ms  DeleteObjects: 0.008938 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.196160 ms
+System memory in use before: 32.1 MB.
+System memory in use after: 32.2 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 850.
+Total: 0.354577 ms (FindLiveObjects: 0.049329 ms CreateObjectMapping: 0.028141 ms MarkObjects: 0.269160 ms  DeleteObjects: 0.006290 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.868068 ms
+System memory in use before: 31.5 MB.
+System memory in use after: 31.6 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 855.
+Total: 0.368813 ms (FindLiveObjects: 0.050653 ms CreateObjectMapping: 0.027809 ms MarkObjects: 0.271478 ms  DeleteObjects: 0.007283 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.177289 ms
+System memory in use before: 32.1 MB.
+System memory in use after: 32.2 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 835.
+Total: 0.496606 ms (FindLiveObjects: 0.065552 ms CreateObjectMapping: 0.044363 ms MarkObjects: 0.373448 ms  DeleteObjects: 0.011256 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 978 -> priority: 1 
+  Thread -> id: 3060 -> priority: 1 
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 24b8 -> priority: 1 
+  Thread -> id: 23f4 -> priority: 1 
